@@ -7,7 +7,7 @@ import javax.swing.*;
  */
 /**
  *
- * @author acond003
+ * @author ME
  */
 public class WLoop {
 
