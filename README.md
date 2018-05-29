@@ -1,0 +1,3 @@
+# java
+Super Basic Cluttered Java Code. I initially wrote these projects as part of my intro to programming class in school.
+Extremely basic stuff used to learn...
