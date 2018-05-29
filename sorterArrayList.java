@@ -13,7 +13,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author acond003
+ * @author ME
  */
 public class LabExerciseFive {
     public static void main(String[] args)throws FileNotFoundException{        
