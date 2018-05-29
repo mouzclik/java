@@ -1,5 +1,5 @@
 //Course: COP 2210 Section 03
-//Name: Assiel Conde
+//Name: ME
 //Program Description: Assignment 2
 //I certify that this code was created by me (and/ or my instructor).
 //Signed ______________________________________________
